@@ -1,0 +1,6 @@
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (15, 'string', '$2a$10$T6vd7pOJRWpueOsYoE1YTe6c0mTagvPx6V2noXadUGn4/ZOPIqeLe', 'string', 'string', 'string', false);
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (16, 'strin32g', '$2a$10$TTSOh24VLenF8u/tuZ/RSOf9IHC7046TBggLVXvcoXmtBVaNH8B8O', 'strin23g', 'strin32g', 'strin33g', false);
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (18, 'string1', '$2a$10$oN24iiHisEkuWr8tySqhae4NhpqJncOp61rKpWvMjzFcbYZloQJi2', 'string1', 'string1', 'string1', false);
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (19, 'valker', '$2a$10$Me./Ue3orlL1Y7JElOEhcuBYhlHocZ801LMH.ICpFn0b/lbyWYyfe', 'mail@mail.ru', 'Sasha', 'Alexsandrov', false);
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (20, 'valker2', '$2a$10$GldBPrRiw4CstBPjojmCxOCOo1sQM.X39tocTJIVEWuVLbc8GLOzi', 'mail2@mail.ru', 'Sasha2', 'Alexsandrov2', false);
+INSERT INTO public.users (id, login, password, email, name, surname, admin) VALUES (21, 'valker3', '$2a$10$ASvXlH/MCao1FhSJrY0/ZeHTMj5bk1nGY4k8ip/OgLruOphhZfQkm', 'mail3@mail.ru', 'Sasha3', 'Alexsandrov3', false);
